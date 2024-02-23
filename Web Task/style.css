@@ -1,0 +1,194 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.roob{
+    background-image: url(./wood-sideboard-living-room-interior-with-copy-space\(1\).jpg);
+    margin: 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+   
+    
+   
+}
+.navbar{
+    background-color:white;
+   display:flex;
+   max-height: 80px;
+   
+   
+   
+   
+  
+   
+}
+.tag{
+   
+  
+    
+   margin-left: 600px;
+   padding: 40px;
+
+   
+   
+   
+}
+.aa{
+    text-align: left;
+}
+a{
+    margin-left: 30px;
+    text-decoration: none;
+    color: black;
+}
+.ee{
+    background-color: yellow;
+    padding: 20px;
+   
+    
+}
+.ro{
+    margin-top: 200px;
+    text-align:center;
+ 
+    
+}
+.ob{
+    
+    background-color: white;
+    padding: 40px;
+    border-radius:20px ;
+    max-width: 500px;
+    margin-left: 400px;
+    
+
+    
+}
+
+.aroob{
+    width: 400px;
+    margin-left: 70px;
+}
+.ali img{
+    height: 200px;
+    width: 200px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    border-radius: 200px;
+    margin-left: 350px;
+   margin-top: 150px;
+   margin-right: 20px;
+
+}
+.hurara img{
+    /* background-image: url(./living-room-interior-wall-mockup-warm-tones-with-leather-sofa-which-is-kitchen-3d-rendering\(1\).jpg); */
+    height: 300px;
+    width: 300px;
+    background-size:cover;
+    background-repeat: no-repeat;
+    border-radius: 300px;
+    margin-top: 50px;
+    margin-right: 50px;
+   
+
+}
+.zoo{
+    display: flex;
+}
+.sf{
+    background-image: url(./green.PNG);
+    height: 450px;
+   margin-top: 100px;
+   padding-top: 50px;
+   background-repeat: no-repeat;
+   background-size: cover;
+   
+
+    
+}
+.fa{
+    margin-top: 50px;
+    background-color: white;
+    width: 400px;
+    margin-left: 150px;
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+    
+    
+}
+.ma{
+   height: 20px;
+    background-color: red;
+    
+}
+.big{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+
+
+.first{
+    display:flex;
+    
+   
+}
+.sana{
+    margin-right: 30px;
+}
+.ana{
+    margin-right: 30px;
+}
+.se img{
+    height: 300px;
+    max-width: 300px;
+    border-radius: 10px;
+    
+}
+.dd img{
+    height: 300px;
+    max-width: 300px;
+    border-radius: 10px;
+}
+.kk img{
+    height: 300px;
+    max-width: 300px;
+    border-radius: 10px;
+}
+.sana{
+    margin-left: 50px;
+    
+}
+.sid img{
+    max-width: 30px;
+   
+}
+.uff{
+    display: flex;
+    background-color: rgb(27, 23, 23);
+    height: 700px;
+    color: white;
+    
+}
+.qu{
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.ess{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.ru{
+    margin-top: 150px;
+    margin-left: 150px;
+}
+.oo{
+    margin-top: 100px;
+}
+.ll{
+    margin-top: 30px;
+}
+.mm{
+    margin-left: 40px;
+}
